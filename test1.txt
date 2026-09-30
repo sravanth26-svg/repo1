@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is DE85-E232
-
- Directory of C:\Users\K.Sravanth Kumar\OneDrive\Desktop\my git_project
-
-30-09-2026  11:37    <DIR>          .
-30-09-2026  11:31    <DIR>          ..
-30-09-2026  11:37                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  159,702,474,752 bytes free
+change 1
